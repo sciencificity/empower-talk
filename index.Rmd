@@ -209,7 +209,7 @@ background-size: 12%
 ]
 
 ???
-The tech world is to put it mildly not really inviting for women or minority genders. If you can't see the pic on the right shows a sign in the door that says "we are open the door is just very heavy". And that is how tech spaces feel, it's a brotopia. As a woman or minority gender we often feel like the gif on the left which shows Judy disappearing when she sits down, and while we don't really want to loom over everyone like the gif on the right shows we kinda want to be somewhere in the middle.
+The tech world is, to put it mildly, not really inviting for women or minority genders. If you can't see the pic on the right shows a sign in the door that says "we are open the door is just very heavy". And that is how tech spaces feel, it's a brotopia. As a woman or minority gender we often feel like the gif on the left which shows Judy disappearing when she sits down, and while we don't really want to loom over everyone like the gif on the right shows we kinda want to be somewhere in the middle.
 
 ---
 
@@ -240,8 +240,82 @@ Your foray into tech / digital spaces is going to be even harder than mine!
 - You will find people being vulnerable, and that gives you permission to be vulnerable too.
 - You will find lots of people from non-tech backgrounds learning out loud, and doing incredible things with tech because they combine their humanities background with analysis and research and product building that benefits society.
 
+---
+
+class: middle, left, pink
+background-image: url(images/providence-doucet-mE5MBZX5sko-unsplash.jpg)
+background-position: right top
+background-size: 12%
+
+## Benefits
+
+- Learn for free. E.g. many meetups on [Meetup.com](https://www.meetup.com/).
+- Meet new people from diverse backgrounds.
+- Get a job.
+- Find a mentor (early career), or be a mentor (good prep for leadership roles).
+- Talk through usually hard to talk about subjects:
+      * What's an appropriate salary for someone with X years experience in Y industry?
+      * How to negotiate for a better offer / salary etc.?
+      * Use a peer as a sounding board before the real deal.
+- Apply for diversity scholarships - have community proof read and critique application.
+- Use the safe space of the meetup to dry-run upcoming talks.
+- Be invited to:
+    * give talks at conferences.
+    * host conference sessions.
+    * co-organise conference.
+- Give back.
+
+---
+
+class: middle, left, pink
+background-image: url(images/shane-rounce-DNkoNXQti3c-unsplash.jpg)
+background-position: right top
+background-size: 12%
+
+## Benefits (continued)
+
+#### Feel supported, inspired and uplifted
+#### Feel like you've found your village
+
+<img src="images/friends.gif" alt="gif showing the characters of Zootopia posing for a picture together" width="500px">
+
+???
+Are there any down sides? If you suffer, like me, from social anxiety then it can be really daunting to feel safe in any space. You worry about many different things - for e.g. I often worry about my conversational skills, my likeability, my knowledge, etc.
+But I do it, and get out there because the plusses outweigh the minuses
+
+---
+
+class: middle, left, pink
+background-image: url(images/door.jpg)
+background-position: right top
+background-size: 12%
+
+## Everyone knows more than me 
 
 
+.pull-left[
+<img src="images/tw1.JPG" alt="picture showing a poll where more people have no programming background before coming into RStats" width="500px">
+]
+
+.pull-left[
+
+]
+
+???
+
+---
+
+# Acknowledgements
+
+---
+
+# Resources
+
+- [R-Ladies community slack](https://rladies-community-slack.herokuapp.com)
+- [R-Ladies Global YouTube]()
+- [Coding Club](https://ourcodingclub.github.io/)
+- [Psych R Resources](https://psyteachr.github.io/): Resources from the Psychology Modules at the University of Glasgow to use R.
+- [Big Book of R](https://www.bigbookofr.com/): Find books and resources in a wide variety of disciplines.
 
 
 
