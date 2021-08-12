@@ -1,0 +1,44 @@
+---
+title: "quick test"
+author: "Vebash Naidoo"
+date: "12/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Title
+
+## Subtitle
+
+#### EDA
+
+Let's have a look at some **data**. This is quite like Word. *Neat!*
+
+-   list item 1
+
+-   list item 2
+
+Ok, what about some numbered lists?
+
+1.  point 1
+
+2.  point 2
+
+    i.  Nice we can have sublists
+
+    ii. point 2
+
+```{r}
+
+scoobydoo <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-07-13/scoobydoo.csv')
+
+glimpse(scoobydoo)
+
+scoobydoo %>% 
+  count(monster_type, sort = TRUE) %>% 
+  DT::datatable()
+```

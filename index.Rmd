@@ -256,8 +256,9 @@ Your foray into tech / digital spaces is going to be even harder than mine!
 
 ???
 - These spaces truly feel like there are no stupid questions.
+- It's less lonely learning with others.
 - You will find people being vulnerable, and that gives you permission to be vulnerable too.
-- You will find lots of people from non-tech backgrounds learning out loud, and doing incredible things with tech because they combine their humanities background with analysis and research and product building that benefits society.
+- You will find lots of people from non-tech backgrounds learning out loud, and doing incredible things with programming because they combine their humanities background with analysis and research and product building that benefits society.
 
 ---
 
@@ -332,6 +333,10 @@ background-size: 12%
 
 - Illustrations by [@lizandmollie](https://twitter.com/lizandmollie)
 ]
+
+???
+
+Social media and technology have had the downside in that we can now compare ourselves to the millions of people out there and that can be at times demotivating. I would say try to always remind yourself of the cartoon by Liz and Mollie on the top corner - don't measure yourself with someone else's ruler.
 ---
 
 class: middle, left, pink
@@ -358,7 +363,7 @@ background-size: 12%
 ???
 Why?
 
-In my opinion most people are using it to learn and teach, especially in the R community. Loads of people are saying what they're learning and with vulnerability e.g. there are #TIL (Today I learnt), #howto, #MIM (Mistakes I made)
+In my opinion most people are using it to learn and teach, especially in the R community. Loads of people are saying what they're learning and with vulnerability e.g. there are #TIL (Today I learnt), #howto, #MIM (Mistakes I made). But you can just learn from these people and contribute when you feel safe to do so, because there are nasty people on social media and it can be discouraging to put out something you're super proud of and then have it diminished by some individual.
 --
 
 - `#TidyTuesday` on Twitter
@@ -416,6 +421,43 @@ class: middle, left, pink
 - [Psych R Resources](https://psyteachr.github.io/): Resources from the Psychology Modules at the University of Glasgow to use R.
 - [Big Book of R](https://www.bigbookofr.com/): Find books and resources in a wide variety of disciplines.
 
+---
+
+class: pink, bottom
+
+.pull-right[
+.right[
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50318861?s=400&amp;u=427ca809ff4e6f0e17a293761859dc01b02e8776&amp;v=4" width="150px"/>
+
+# Thank you!
+
+### Find me at...
+
+[`r icon::fa("twitter")` @sciencificity](http://twitter.com/sciencificity)  
+[`r icon::fa("github")` @sciencificity](http://github.com/sciencificity)  
+[`r icon::fa("link")` sciencificity-blog.netlify.app/](https://sciencificity-blog.netlify.app/)  
+]
+]
+
+```{r include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    description = "Empower Talk - RSA Women's Month Aug '21"
+  ) %>% 
+  meta_name("github-repo" = "sciencificity/empower-talk") %>% 
+  meta_viewport() %>%
+  meta_social(
+    title = "Learning in a Community",
+    url = "https://sciencificity.github.io/empower-talk/",
+    image = "https://sciencificity.github.io/empower-talk/images/jon-tyson-8NGWDex9qUw-unsplash.jpg",
+    image_alt = "a photo with a mat that shows the words 'come as you are' from unsplash",
+    og_type = "website",
+    og_author = "Vebash Naidoo",
+    twitter_card_type = "summary",
+    twitter_creator = "@sciencificity"
+  )
+```
 
 
 <!-- Photo by <a href="https://unsplash.com/@providence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Providence Doucet</a> on <a href="https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
