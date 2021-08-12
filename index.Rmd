@@ -228,7 +228,7 @@ background-size: 12%
 ]
 
 ???
-The tech world is, to put it mildly, not really inviting for women or minority genders. If you can't see the pic on the right shows a sign in the door that says "we are open the door is just very heavy". And that is how tech spaces feel, it's a brotopia. As a woman or minority gender we often feel like the gif on the left which shows Judy disappearing when she sits down, and while we don't really want to loom over everyone like the gif on the right shows we kinda want to be somewhere in the middle.
+The tech world is, to put it mildly, not really inviting for women or minority genders. If you can't see the pic on the right shows a sign in the door that says "we are open the door is just very heavy". And that is how tech spaces feel, it's predominantly a brotopia. As a woman or minority gender we often feel like the gif on the left which shows Judy disappearing when she sits down, and while we don't really want to loom over everyone like the gif on the right shows, we kinda want to be somewhere in the middle.
 
 ---
 
@@ -248,7 +248,7 @@ Your foray into tech / digital spaces is going to be even harder than mine!
 .pull-left[
 - Which is why I would encourage you to join communities `r emoji("busts_in_silhouette")`  `r emoji("busts_in_silhouette")` `r emoji("busts_in_silhouette")`.
 - And while I would love if you choose to join [R-Ladies](https://bit.ly/rladies-jozi-meetup-page) there are many other communities that may be suitable for you:
-  * [Digital Humanities Slack Space](dhcssza.slack.com)
+  * [Digital Humanities Slack Space](https://escalator.sadilar.org/post/connect-with-the-community/)
   * [The Carpentries](https://carpentries.org/)
   * [R4DS - R for Data Science Slack community](http://r4ds.io/join)
 - I have heard it described as "free night school".
@@ -368,6 +368,10 @@ In my opinion most people are using it to learn and teach, especially in the R c
 
 - `#TidyTuesday` on Twitter
 
+???
+
+Data visualisation + much more (data wrangling, how to deal with missing info etc.)
+
 --
 
 - [Sliced - Competitive Data Science](https://www.twitch.tv/nickwan_datasci)
@@ -406,17 +410,18 @@ class: middle, left, pink
 # Acknowledgements and Thank You
 
 - [Unsplash for most pictures](https://unsplash.com/)
-- [`r fa_i("twitter")`@lizandmollie](https://twitter.com/lizandmollie) for the hand drawn pictures in some of the slides.
+- [`r fa_i("twitter")`@lizandmollie](https://twitter.com/lizandmollie) for the hand drawn pictures in some of the slides (and generally as a stop by to remember to take care of yourself, that you matter, and you are always worthy).
 - [SADiLaR for the opportunity to speak](https://www.sadilar.org/index.php/en/)
 - [Alison Hill - inspiration for slides](https://twitter.com/apreshill)
 
 ---
 class: middle, left, pink
 
-# Resources
+# R Resources
 
+- [R-Ladies Johannesburg Meetup](https://www.meetup.com/rladies-johannesburg/): we're actually R-Ladies Gauteng but the admin to rebrand is too much `r emoji("smile")`
 - [R-Ladies community slack](https://rladies-community-slack.herokuapp.com)
-- [R-Ladies Global YouTube]()
+- [R-Ladies Global YouTube](https://bit.ly/rladies-global-youtube)
 - [Coding Club](https://ourcodingclub.github.io/)
 - [Psych R Resources](https://psyteachr.github.io/): Resources from the Psychology Modules at the University of Glasgow to use R.
 - [Big Book of R](https://www.bigbookofr.com/): Find books and resources in a wide variety of disciplines.
